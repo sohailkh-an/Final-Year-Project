@@ -27,10 +27,14 @@
 
       .h3 {
         font: base.$h3;
+        color: base.$black;
+
       }
 
       .h4 {
         font: base.$h4;
+        color: base.$black;
+
       }
 
       .input_container {
@@ -95,6 +99,8 @@
 
       .welcome_text {
         font: base.$p_small;
+        color: base.$black;
+
       }
 
       .signIn_link_container {
@@ -102,6 +108,7 @@
       }
       .signIn_link {
         font: base.$p_large;
+        color: base.$black;
       }
     }
   }

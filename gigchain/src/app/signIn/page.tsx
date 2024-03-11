@@ -36,7 +36,7 @@ export default function SignInPage() {
                 <span className={styles.checkbox_label}>Remember Me</span>
               </label>
 
-              <a href="/forgetPassword">Forgot password?</a>
+              <a className={styles.forgetPassLink} href="/forgetPassword">Forgot password?</a>
             </div>
 
             <div>

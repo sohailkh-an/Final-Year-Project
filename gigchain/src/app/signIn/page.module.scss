@@ -27,10 +27,13 @@
 
       .h3 {
         font: base.$h3;
+        color: base.$black;
       }
 
       .h4 {
         font: base.$h4;
+        color: base.$black;
+
       }
 
       .input_container {
@@ -111,11 +114,15 @@
 
         .custom_checkbox .checkbox_label {
           cursor: pointer;
+          color: base.$black;
         }
 
         p {
           font: base.$p_small;
           color: base.$primary;
+        }
+        .forgetPassLink{
+          color: base.$black;
         }
       }
 
@@ -132,13 +139,17 @@
 
       .welcome_text {
         font: base.$p_small;
+        color: base.$black;
+
       }
+
 
       .register_link_container {
         align-self: center;
       }
       .register_link {
         font: base.$p_large;
+        color: base.$black;
       }
     }
   }

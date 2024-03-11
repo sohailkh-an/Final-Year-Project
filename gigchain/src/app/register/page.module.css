@@ -25,9 +25,11 @@
 }
 .signUp_wrapper .parent_cont_left .main_content_container .h3 {
   font: normal 700 40.1px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signUp_wrapper .parent_cont_left .main_content_container .h4 {
   font: normal 700 33.42px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signUp_wrapper .parent_cont_left .main_content_container .input_container {
   display: flex;
@@ -84,12 +86,14 @@
 }
 .signUp_wrapper .parent_cont_left .main_content_container .welcome_text {
   font: normal 400 13.3px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signUp_wrapper .parent_cont_left .main_content_container .signIn_link_container {
   align-self: center;
 }
 .signUp_wrapper .parent_cont_left .main_content_container .signIn_link {
   font: normal 400 19.2px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signUp_wrapper .parent_cont_right {
   display: flex;

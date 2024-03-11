@@ -1,6 +1,9 @@
+@use "../../../styles/_base.scss" as base;
 .navbar {
-    background-color: #f2f2f2;
-    padding: 10px;
+    background-color: base.$background;
+    padding: 0 50px;
+    width: 100vw;
+    height: 70px;
 }
 
 .navbar_container {

@@ -25,9 +25,11 @@
 }
 .signIn_wrapper .parent_cont_left .main_content_container .h3 {
   font: normal 700 40.1px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signIn_wrapper .parent_cont_left .main_content_container .h4 {
   font: normal 700 33.42px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signIn_wrapper .parent_cont_left .main_content_container .input_container {
   display: flex;
@@ -96,10 +98,14 @@
 }
 .signIn_wrapper .parent_cont_left .main_content_container .misc_fields .custom_checkbox .checkbox_label {
   cursor: pointer;
+  color: #000000;
 }
 .signIn_wrapper .parent_cont_left .main_content_container .misc_fields p {
   font: normal 400 13.3px/1.5 "Inter", sans-serif;
   color: #2B0046;
+}
+.signIn_wrapper .parent_cont_left .main_content_container .misc_fields .forgetPassLink {
+  color: #000000;
 }
 .signIn_wrapper .parent_cont_left .main_content_container .button_secondary {
   width: 450px;
@@ -113,12 +119,14 @@
 }
 .signIn_wrapper .parent_cont_left .main_content_container .welcome_text {
   font: normal 400 13.3px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signIn_wrapper .parent_cont_left .main_content_container .register_link_container {
   align-self: center;
 }
 .signIn_wrapper .parent_cont_left .main_content_container .register_link {
   font: normal 400 19.2px/1.5 "Inter", sans-serif;
+  color: #000000;
 }
 .signIn_wrapper .parent_cont_right {
   display: flex;

@@ -1,0 +1,21 @@
+.educationContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    grid-column: 1 / span 2;
+    border: 1px solid black;
+
+
+
+
+}
+.
+.educationTable{
+    width: 100%;
+}
+th {
+    background-color: #04AA6D;
+    color: white;
+    padding: 20px;
+  }

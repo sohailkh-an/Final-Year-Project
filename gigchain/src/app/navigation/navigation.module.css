@@ -1,6 +1,8 @@
 .navbar {
-  background-color: #f2f2f2;
-  padding: 10px;
+  background-color: #EEF0FF;
+  padding: 0 50px;
+  width: 100vw;
+  height: 70px;
 }
 
 .navbar_container {
