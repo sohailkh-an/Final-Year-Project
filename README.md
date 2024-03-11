@@ -27,7 +27,7 @@ These instructions will help you set up the development environment and run the 
 ### Installation
 
 1. Clone the repository:
-   git clone: https://github.com/yourusername/decentralized-freelance-marketplace.git
+   git clone: https://github.com/sohailkh-an/Final-Year-Project.git
 2. Navigate to the project directory:
    cd decentralized-freelance-marketplace
 3. Install dependencies:
